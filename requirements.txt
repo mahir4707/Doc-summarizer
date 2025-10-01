@@ -1,9 +1,8 @@
+streamlit
 langchain
-langchain-huggingface
 langchain-community
-transformers
-huggingface-hub
 langchain-text-splitters
+transformers
+sentence-transformers
 pypdf
-python-dotenv
-torch      # or install a CPU/GPU compatible torch version
+numpy
